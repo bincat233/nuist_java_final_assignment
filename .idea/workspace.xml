@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4a1a01e3-e468-4dc2-a006-eeaf9f1fb1ec" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="MhBUnNxY" />
+  </component>
+  <component name="ProjectId" id="1WhPb2i5uSlORdf34tZzH0Xh2Uv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a1a01e3-e468-4dc2-a006-eeaf9f1fb1ec" name="Default Changelist" comment="" />
+      <created>1579597411024</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579597411024</updated>
+      <workItem from="1579597417376" duration="290000" />
+      <workItem from="1579598930755" duration="89000" />
+      <workItem from="1579601813553" duration="148000" />
+      <workItem from="1579602021535" duration="26000" />
+      <workItem from="1579602075198" duration="9000" />
+      <workItem from="1579613300399" duration="77000" />
+      <workItem from="1579613409736" duration="1262000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="434" y="137" key="#Plugins" timestamp="1579601961215">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state x="434" y="137" key="#Plugins/0.23.1440.806@0.23.1440.806" timestamp="1579601961215" />
+    <state x="340" y="81" key="#Updates" timestamp="1579599013773">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state x="340" y="81" key="#Updates/0.23.1440.806@0.23.1440.806" timestamp="1579599013773" />
+    <state x="241" y="62" key="SettingsEditor" timestamp="1579613377685">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="241" y="62" key="SettingsEditor/0.23.1440.808@0.23.1440.808" timestamp="1579613377685" />
+    <state x="503" y="267" key="cloudConfig.SelfSettingsDialog" timestamp="1579601882487">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state x="503" y="267" key="cloudConfig.SelfSettingsDialog/0.23.1440.806@0.23.1440.806" timestamp="1579601882487" />
+    <state x="429" y="231" key="com.intellij.ide.util.TipDialog" timestamp="1579613429424">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="429" y="230" key="com.intellij.ide.util.TipDialog/0.23.1440.806@0.23.1440.806" timestamp="1579602081377" />
+    <state x="429" y="231" key="com.intellij.ide.util.TipDialog/0.23.1440.808@0.23.1440.808" timestamp="1579613429424" />
+    <state x="117" y="23" width="1246" height="806" key="new project wizard" timestamp="1579615923171">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state x="117" y="23" width="1246" height="806" key="new project wizard/0.23.1440.806@0.23.1440.806" timestamp="1579615923171" />
+    <state x="405" y="153" width="670" height="676" key="search.everywhere.popup" timestamp="1579601915730">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state x="405" y="153" width="670" height="676" key="search.everywhere.popup/0.23.1440.806@0.23.1440.806" timestamp="1579601915730" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
